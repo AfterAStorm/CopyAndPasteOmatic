@@ -1,1 +1,1 @@
-# CopyAndPasteOmatic
+# CopyAndPaste-O-Matic
